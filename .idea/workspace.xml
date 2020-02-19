@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ede2ba5c-6571-4532-91aa-cc5eac212f54" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/my-lib/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/bundles/my-lib.umd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/bundles/my-lib.umd.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/bundles/my-lib.umd.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/bundles/my-lib.umd.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/esm2015/lib/ngx-editor/common/ngx-editor.defaults.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/esm2015/lib/ngx-editor/common/services/command-executor.service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/esm2015/lib/ngx-editor/common/services/message.service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/esm2015/lib/ngx-editor/common/utils/ngx-editor.utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/esm2015/lib/ngx-editor/ngx-editor-message/ngx-editor-message.component.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/esm2015/lib/ngx-editor/ngx-editor-toolbar/ngx-editor-toolbar.component.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/esm2015/lib/ngx-editor/ngx-editor.component.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/esm2015/lib/ngx-editor/ngx-editor.module.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/esm2015/lib/ngx-editor/ngx-grippie/ngx-grippie.component.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/esm2015/my-lib.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/esm2015/public-api.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/esm5/lib/ngx-editor/common/ngx-editor.defaults.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/esm5/lib/ngx-editor/common/services/command-executor.service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/esm5/lib/ngx-editor/common/services/message.service.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/esm5/lib/ngx-editor/common/utils/ngx-editor.utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/esm5/lib/ngx-editor/ngx-editor-message/ngx-editor-message.component.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/esm5/lib/ngx-editor/ngx-editor-toolbar/ngx-editor-toolbar.component.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/esm5/lib/ngx-editor/ngx-editor.component.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/esm5/lib/ngx-editor/ngx-editor.module.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/esm5/lib/ngx-editor/ngx-grippie/ngx-grippie.component.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/esm5/my-lib.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/esm5/public-api.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/fesm2015/my-lib.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/fesm2015/my-lib.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/fesm5/my-lib.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/fesm5/my-lib.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/lib/ngx-editor/common/ngx-editor.defaults.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/lib/ngx-editor/common/services/command-executor.service.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/lib/ngx-editor/common/services/message.service.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/lib/ngx-editor/common/utils/ngx-editor.utils.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/lib/ngx-editor/ngx-editor-message/ngx-editor-message.component.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/lib/ngx-editor/ngx-editor-toolbar/ngx-editor-toolbar.component.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/lib/ngx-editor/ngx-editor.component.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/lib/ngx-editor/ngx-editor.module.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/lib/ngx-editor/ngx-grippie/ngx-grippie.component.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/my-lib.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/my-lib.metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-lib/public-api.d.ts" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="306">
+                <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace>JanissariesHtmlEditor</replace>
+      <replace>JanissariesHtmlEditorModule</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/janissaries-html-editor.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="976" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="janissaries-html-editor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="janissaries-html-editor" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ede2ba5c-6571-4532-91aa-cc5eac212f54" name="Default Changelist" comment="" />
+      <created>1582133224820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582133224820</updated>
+      <workItem from="1582133226114" duration="812000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="812000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="306">
+            <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
