@@ -2,50 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ede2ba5c-6571-4532-91aa-cc5eac212f54" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/my-lib/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/bundles/my-lib.umd.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/bundles/my-lib.umd.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/bundles/my-lib.umd.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/bundles/my-lib.umd.min.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/esm2015/lib/ngx-editor/common/ngx-editor.defaults.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/esm2015/lib/ngx-editor/common/services/command-executor.service.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/esm2015/lib/ngx-editor/common/services/message.service.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/esm2015/lib/ngx-editor/common/utils/ngx-editor.utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/esm2015/lib/ngx-editor/ngx-editor-message/ngx-editor-message.component.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/esm2015/lib/ngx-editor/ngx-editor-toolbar/ngx-editor-toolbar.component.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/esm2015/lib/ngx-editor/ngx-editor.component.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/esm2015/lib/ngx-editor/ngx-editor.module.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/esm2015/lib/ngx-editor/ngx-grippie/ngx-grippie.component.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/esm2015/my-lib.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/esm2015/public-api.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/esm5/lib/ngx-editor/common/ngx-editor.defaults.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/esm5/lib/ngx-editor/common/services/command-executor.service.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/esm5/lib/ngx-editor/common/services/message.service.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/esm5/lib/ngx-editor/common/utils/ngx-editor.utils.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/esm5/lib/ngx-editor/ngx-editor-message/ngx-editor-message.component.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/esm5/lib/ngx-editor/ngx-editor-toolbar/ngx-editor-toolbar.component.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/esm5/lib/ngx-editor/ngx-editor.component.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/esm5/lib/ngx-editor/ngx-editor.module.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/esm5/lib/ngx-editor/ngx-grippie/ngx-grippie.component.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/esm5/my-lib.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/esm5/public-api.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/fesm2015/my-lib.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/fesm2015/my-lib.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/fesm5/my-lib.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/fesm5/my-lib.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/lib/ngx-editor/common/ngx-editor.defaults.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/lib/ngx-editor/common/services/command-executor.service.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/lib/ngx-editor/common/services/message.service.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/lib/ngx-editor/common/utils/ngx-editor.utils.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/lib/ngx-editor/ngx-editor-message/ngx-editor-message.component.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/lib/ngx-editor/ngx-editor-toolbar/ngx-editor-toolbar.component.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/lib/ngx-editor/ngx-editor.component.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/lib/ngx-editor/ngx-editor.module.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/lib/ngx-editor/ngx-grippie/ngx-grippie.component.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/my-lib.d.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/my-lib.metadata.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-lib/public-api.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -58,14 +15,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="306">
-                <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+              <first_editor relative-caret-position="357">
+                <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+              <folding>
+                <element signature="e#309#370#0" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -73,6 +42,9 @@
     </leaf>
   </component>
   <component name="FindInProjectRecents">
+    <findStrings>
+      <find>NgxEditor</find>
+    </findStrings>
     <replaceStrings>
       <replace>JanissariesHtmlEditor</replace>
       <replace>JanissariesHtmlEditorModule</replace>
@@ -85,6 +57,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
@@ -101,7 +74,7 @@
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="976" />
+    <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
@@ -124,6 +97,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -151,23 +125,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1582133224820</updated>
-      <workItem from="1582133226114" duration="812000" />
+      <workItem from="1582133226114" duration="1392000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="812000" />
+    <option name="totallyTimeSpent" value="1392000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.50104386" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32592592" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -185,13 +159,29 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/bundles/my-lib.umd.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="306">
-            <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <first_editor relative-caret-position="357">
+            <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#309#370#0" />
+          </folding>
         </state>
       </provider>
     </entry>

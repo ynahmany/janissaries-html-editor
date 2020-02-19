@@ -1,11 +1,22 @@
 {
-  "name": "my-lib",
-  "version": "0.0.1",
+  "name": "janissaries-html-editor",
+  "version": "1.0.3",
   "peerDependencies": {
     "@angular/common": "^9.0.1",
     "@angular/core": "^9.0.1",
     "tslib": "^1.10.0"
   },
+  "author": {
+    "name": "Muhammad Mavia"
+  },
+  "homepage": "https://github.com/janissaries-io/html-editor#readme",
+  "repository": "https://github.com/janissaries-io/html-editor",
+  "keywords": [
+    "janissaries",
+    "html",
+    "editor",
+    "text"
+  ],
   "main": "bundles/my-lib.umd.js",
   "module": "fesm5/my-lib.js",
   "es2015": "fesm2015/my-lib.js",
